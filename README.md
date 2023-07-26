@@ -26,4 +26,4 @@ While planning for this project the initial purpose of creating the report was t
 This was a fun project to work on. The insights were quite interesting to see and I'm glad I took on the project.
 
 You can explore the interactive version of the report to see the full functionality and user experience through the link provided below.
-[PowerBI Report]()
+[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiZDk4ZjgxYWYtYjFiZi00OWRlLTk2ZmUtMDE3NDcyYTRjODYwIiwidCI6IjQzZjFiNDVlLTIwODgtNGE4NS05MTE3LWM1ODhiODdiNDQwYSJ9)
